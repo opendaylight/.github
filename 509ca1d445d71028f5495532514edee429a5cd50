@@ -1,0 +1,67 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d03b3ddb_f705b25c",
+        "filename": ".github/workflows/gerrit-required-merge.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1
+      },
+      "writtenOn": "2023-11-07T02:47:13Z",
+      "side": 1,
+      "message": "This entire workflow is not presently needed for ODL",
+      "revId": "509ca1d445d71028f5495532514edee429a5cd50",
+      "serverId": "7fc14799-209e-464c-9743-7a06c2c21a81"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "7fc43fc8_a0406a5b",
+        "filename": ".github/workflows/gerrit-required-verify.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 93,
+      "author": {
+        "id": 1
+      },
+      "writtenOn": "2023-11-07T02:47:13Z",
+      "side": 1,
+      "message": "You are not doing docs-rules-validation, so do not need it",
+      "range": {
+        "startLine": 93,
+        "startChar": 21,
+        "endLine": 93,
+        "endChar": 43
+      },
+      "revId": "509ca1d445d71028f5495532514edee429a5cd50",
+      "serverId": "7fc14799-209e-464c-9743-7a06c2c21a81"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "b9f1948d_cfdcd634",
+        "filename": ".github/workflows/gerrit-required-verify.yaml",
+        "patchSetId": 1
+      },
+      "lineNbr": 93,
+      "author": {
+        "id": 1
+      },
+      "writtenOn": "2023-11-07T02:47:13Z",
+      "side": 1,
+      "message": "You are not doing RTD validation, so do not need it",
+      "range": {
+        "startLine": 93,
+        "startChar": 59,
+        "endLine": 93,
+        "endChar": 75
+      },
+      "revId": "509ca1d445d71028f5495532514edee429a5cd50",
+      "serverId": "7fc14799-209e-464c-9743-7a06c2c21a81"
+    }
+  ]
+}
